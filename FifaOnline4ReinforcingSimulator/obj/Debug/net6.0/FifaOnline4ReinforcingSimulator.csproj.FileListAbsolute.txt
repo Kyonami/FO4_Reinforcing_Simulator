@@ -1,0 +1,15 @@
+C:\Users\tlary\source\repos\FifaOnline4ReinforcingSimulator\FifaOnline4ReinforcingSimulator\bin\Debug\net6.0\FifaOnline4ReinforcingSimulator.exe
+C:\Users\tlary\source\repos\FifaOnline4ReinforcingSimulator\FifaOnline4ReinforcingSimulator\bin\Debug\net6.0\FifaOnline4ReinforcingSimulator.deps.json
+C:\Users\tlary\source\repos\FifaOnline4ReinforcingSimulator\FifaOnline4ReinforcingSimulator\bin\Debug\net6.0\FifaOnline4ReinforcingSimulator.runtimeconfig.json
+C:\Users\tlary\source\repos\FifaOnline4ReinforcingSimulator\FifaOnline4ReinforcingSimulator\bin\Debug\net6.0\FifaOnline4ReinforcingSimulator.dll
+C:\Users\tlary\source\repos\FifaOnline4ReinforcingSimulator\FifaOnline4ReinforcingSimulator\bin\Debug\net6.0\FifaOnline4ReinforcingSimulator.pdb
+C:\Users\tlary\source\repos\FifaOnline4ReinforcingSimulator\FifaOnline4ReinforcingSimulator\obj\Debug\net6.0\FifaOnline4ReinforcingSimulator.csproj.AssemblyReference.cache
+C:\Users\tlary\source\repos\FifaOnline4ReinforcingSimulator\FifaOnline4ReinforcingSimulator\obj\Debug\net6.0\FifaOnline4ReinforcingSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tlary\source\repos\FifaOnline4ReinforcingSimulator\FifaOnline4ReinforcingSimulator\obj\Debug\net6.0\FifaOnline4ReinforcingSimulator.AssemblyInfoInputs.cache
+C:\Users\tlary\source\repos\FifaOnline4ReinforcingSimulator\FifaOnline4ReinforcingSimulator\obj\Debug\net6.0\FifaOnline4ReinforcingSimulator.AssemblyInfo.cs
+C:\Users\tlary\source\repos\FifaOnline4ReinforcingSimulator\FifaOnline4ReinforcingSimulator\obj\Debug\net6.0\FifaOnline4ReinforcingSimulator.csproj.CoreCompileInputs.cache
+C:\Users\tlary\source\repos\FifaOnline4ReinforcingSimulator\FifaOnline4ReinforcingSimulator\obj\Debug\net6.0\FifaOnline4ReinforcingSimulator.dll
+C:\Users\tlary\source\repos\FifaOnline4ReinforcingSimulator\FifaOnline4ReinforcingSimulator\obj\Debug\net6.0\refint\FifaOnline4ReinforcingSimulator.dll
+C:\Users\tlary\source\repos\FifaOnline4ReinforcingSimulator\FifaOnline4ReinforcingSimulator\obj\Debug\net6.0\FifaOnline4ReinforcingSimulator.pdb
+C:\Users\tlary\source\repos\FifaOnline4ReinforcingSimulator\FifaOnline4ReinforcingSimulator\obj\Debug\net6.0\FifaOnline4ReinforcingSimulator.genruntimeconfig.cache
+C:\Users\tlary\source\repos\FifaOnline4ReinforcingSimulator\FifaOnline4ReinforcingSimulator\obj\Debug\net6.0\ref\FifaOnline4ReinforcingSimulator.dll

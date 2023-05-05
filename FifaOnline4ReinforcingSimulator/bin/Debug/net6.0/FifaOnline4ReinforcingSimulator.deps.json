@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FifaOnline4ReinforcingSimulator/1.0.0": {
+        "runtime": {
+          "FifaOnline4ReinforcingSimulator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FifaOnline4ReinforcingSimulator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
