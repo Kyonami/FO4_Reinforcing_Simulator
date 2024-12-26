@@ -13,6 +13,8 @@
 		int tryingCount = int.Parse(Console.ReadLine());
 
 		int totalCount = 0;
+		int worstCount = 0;
+		int bestCount = int.MaxValue;
 		for (int i = 0; i < tryingCount; i++)
 		{
 			int count = 0;
@@ -26,8 +28,12 @@
 			}
 
 			totalCount += count;
+			worstCount = worstCount < count ? count : worstCount;
+			bestCount = count < bestCount ? count : bestCount;
 		}
 
-		Console.WriteLine($"Average : {totalCount / tryingCount}");
+		Console.WriteLine($"Average : {totalCount / (float)tryingCount}");
+		Console.WriteLine($"Worst : {worstCount}");
+		Console.WriteLine($"Best : {bestCount}");
 	}
 }
